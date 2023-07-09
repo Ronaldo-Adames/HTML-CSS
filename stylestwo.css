@@ -1,0 +1,30 @@
+
+
+.button {
+    background-color: rgb(67, 136, 214);
+    content: "";
+    color: white;
+    padding: 10px 20px;
+    font-size: 45px;
+    border: none;
+    cursor: pointer;
+
+}
+
+button::before {
+    content: "";
+    color: white;
+    padding: 10px 20px;
+    font-size: 45px;
+    border: none;
+    cursor: pointer;
+}
+
+button:hover {
+    background-color: grey;
+}
+
+.button:active {
+    background-color:darkred;
+}
+

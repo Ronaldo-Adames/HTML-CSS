@@ -1,0 +1,12 @@
+
+
+
+.div1{
+    display: flex;
+    gap: auto;
+}
+
+.div4{
+    display: flex;
+    gap: 15px;
+}

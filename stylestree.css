@@ -1,0 +1,16 @@
+body{
+
+    background-color: rgb(183, 220, 221);
+}
+
+
+label {
+
+    font-weight: bold;
+    display: flex;
+    flex-direction: column;
+    margin-bottom: 5px;
+   
+  }
+
+  
